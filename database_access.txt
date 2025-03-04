@@ -1,0 +1,4 @@
+
+username: Maxim
+password: ave0DyCUoEnZYMhM
+MONGO_URI = mongodb+srv://Maxim:ave0DyCUoEnZYMhM@cluster0.dd3hd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
